@@ -1,2 +1,2 @@
-# projeto-xadrez
-Projeto para praticar o básico de POO do Java
+# Projeto Xadrez
+Um sistema de jogo de xadrez no prompt de comando
